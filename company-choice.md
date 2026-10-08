@@ -1,3 +1,12 @@
-He elegido TrackFlow porque es una empresa de logistica que pertenece al sector donde actualmente trabajo y me llama la atencion que muchos de sus procesos como la generacion de pedidos, la preparacion y el trabajar con diferentes empresas de mensajeria se hacen manualmente y con la ayuda de la IA se puede automatizar muchos procesos, que se traduce en un mayor ahorro de tiempo y mayor eficiencia en todos los procesos internos.
-Los departamentos que me parecen mas interesantes son: la recepcion de pedidos, la gestion del stock y la deteccion de diferencias reales que puedan haber fisicamente y y virtual. El departamento de gestion de transportistas tambien me parece interesante porque se asignan de manera manual sin mirar realmente las necesidades que cada envio, con lo que se podria mejorar, los tiempos de envio, precio e incidencias.
-El reto de automatizacion que eligiria seria: Un agente de CX de primera línea que resuelva automáticamente consultas de seguimiento y estado de devoluciones, una base de conocimiento semántica indexada para RAG, un sistema unificado de tickets, un tablero de CX en tiempo real, y análisis de sentimiento para detectar clientes frustrados antes de que escalen. El soporte multiidioma (español + inglés) es opcional pero altamente recomendado, comenzando por un idioma base.
+## He elegido TrackFlow porque
+ Es una empresa de logistica que pertenece al sector donde actualmente trabajo y me llama la atencion que muchos de sus procesos como la generacion de pedidos, la preparacion y el trabajar con diferentes empresas de mensajeria se hacen manualmente y con la ayuda de la IA se puede automatizar muchos procesos, que se traduce en un mayor ahorro de tiempo y mayor eficiencia en todos los procesos internos.
+## Los departamentos que me parecen mas interesantes son:
+ La recepcion de pedidos, la gestion del stock y la deteccion de diferencias reales que puedan haber fisicamente y y virtual. El departamento de gestion de transportistas tambien me parece interesante porque se asignan de manera manual sin mirar realmente las necesidades que cada envio, con lo que se podria mejorar, los tiempos de envio, precio e incidencias.
+## El reto de automatizacion que eligiria seria
+: Un agente de CX de primera línea que resuelva automáticamente consultas de seguimiento y estado de devoluciones, una base de conocimiento semántica indexada para RAG, un sistema unificado de tickets, un tablero de CX en tiempo real, y análisis de sentimiento para detectar clientes frustrados antes de que escalen. El soporte multiidioma (español + inglés) es opcional pero altamente recomendado, comenzando por un idioma base.
+
+## Mi idea de Agente de IA 
+Un agente de CX de primera linea 
+Su funcion es atender automaticamente todas las consultas de los clientes, principalmente:
+Seguimiento de paquetes, devoluciones, quejas y reclamos, estado de su pedido, crear un ticket de conversacion con un humano real cuando no se pueda resolver mediante ese chat.
+Asi se puede automatizar preguntas repetitivas.
