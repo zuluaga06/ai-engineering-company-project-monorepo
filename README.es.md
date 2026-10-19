@@ -135,6 +135,7 @@ Lee el `README.md` enlazado dentro de cada carpeta antes de empezar a programar 
 
 - Skills de análisis de datos, code review, scraping, investigación, etc.
 - Cada skill = carpeta con `SKILL.md`, scripts y recursos opcionales
+- Skill de triaje de consultas CX de TrackFlow: [`skills/trackflow-cx-triage/SKILL.md`](./skills/trackflow-cx-triage/SKILL.md)
 
 **Ejemplo incluido:** `skills/data-analysis/` (script de limpieza pandas + referencia de métricas)
 
