@@ -1,0 +1,16 @@
+{
+  "name": "trackflow-automation-exercise",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "TypeScript collection, search, transformation, and validation examples for TrackFlow",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "check": "tsc --noEmit -p tsconfig.json",
+    "example": "npm run check && node --experimental-strip-types src/examples.ts",
+    "test": "npm run example"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
